@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](../assets/404.png)
+![screenshot on mobile and desktop](https://github.com/NishiNegi/404-Not-Found/blob/master/assets/404.png)
 
 ## My process
 
